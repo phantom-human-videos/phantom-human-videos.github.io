@@ -238,10 +238,6 @@ th {
   background-color: #f8f8f8;
 }
 
-tbody tr:nth-child(1) {
-  background-color: #fff8c6; /* Light yellow */
-  font-weight: bold;
-}
 
 
 
