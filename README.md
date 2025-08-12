@@ -1,4 +1,4 @@
-# Shadow: Leveraging Segmentation Masks for Zero-Shot Cross-Embodiment Policy Transfer
+# Phantom: Training Robots Without Robots Using Only Human Videos
 
 
 Website template adapted from [Nerfies](https://github.com/nerfies/nerfies.github.io/tree/main).
